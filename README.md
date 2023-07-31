@@ -24,6 +24,6 @@ npm start
 
 ### Execute a aplicação para o funcionamento do backend
 ```
-npm run back end
+npm run backend
 ```
 
