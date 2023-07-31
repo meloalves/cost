@@ -7,14 +7,16 @@
 
 
 
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    ## Instalação
+
+    
+## Instalação
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento 
+## Execute a aplicação em modo de desenvolvimento 
 $ npm start
 
 
-# Execute a aplicação para o funcionamento do backend
+## Execute a aplicação para o funcionamento do backend
+# Markdown
 $ npm run back end
-</div>
+
