@@ -1,0 +1,30 @@
+.navbar {
+  background-color: #222;
+  padding: 1em;
+}
+
+.logoNav {
+  width: 50px;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+.item {
+  margin-right: 1em;
+}
+
+.item a {
+  color: #fff;
+  text-decoration: none;
+  transition: .5s;
+}
+
+.item a:hover {
+  color: #ffbb33;
+}
+
+

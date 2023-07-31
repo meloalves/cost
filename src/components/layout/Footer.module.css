@@ -1,0 +1,35 @@
+.footer {
+  background-color: #222;
+  color: #fff;
+  padding: 3em;
+  text-align: center;
+}
+
+.socialist {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.socialist li {
+  margin: 0 1em;
+  transition: .5s;
+}
+
+.socialist li:hover {
+  color: #ffbb33;
+}
+
+.socialist svg {
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.copyRight {
+  margin-top: 1em;
+}
+
+.copyRight span {
+  font-weight: bold;
+  color: #ffbb33;
+}
