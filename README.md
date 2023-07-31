@@ -9,20 +9,20 @@
 
 
     
-## Instalação
+### Instalação
 ```
 npm install
 ```
 
 
-## Execute a aplicação em modo de desenvolvimento 
+### Execute a aplicação em modo de desenvolvimento 
 ```
 npm start
 ```
 
 
 
-## Execute a aplicação para o funcionamento do backend
+### Execute a aplicação para o funcionamento do backend
 ```
 npm run back end
 ```
