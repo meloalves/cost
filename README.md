@@ -9,7 +9,7 @@
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento 
-<p dir="auto">npm start </p>
+<pre>npm start </pre>
 
 
 
