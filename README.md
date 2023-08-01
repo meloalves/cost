@@ -33,3 +33,25 @@ O projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 ```bash
 git clone https://github.com/meloalves/cost.git
+````
+
+2.Instale as dependências: 
+```
+cd cost
+npm install
+```
+
+3.Inicie a aplicação em modo de desenvolvimento:
+```
+npm start
+```
+
+4. Inicie o backend da aplicação
+```
+npm run backend
+```
+Contribuindo
+Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Licença
+Este projeto está licenciado sob a Licença MIT.
