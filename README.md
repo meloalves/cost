@@ -35,13 +35,15 @@ O projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 git clone https://github.com/meloalves/cost.git
 ````
 
-2.Instale as dependências: 
+2. Instale as dependências: 
+
 ```
 cd cost
 npm install
 ```
 
-3.Inicie a aplicação em modo de desenvolvimento:
+3. Inicie a aplicação em modo de desenvolvimento:
+
 ```
 npm start
 ```
