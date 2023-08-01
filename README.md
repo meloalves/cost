@@ -1,6 +1,7 @@
-# cost - Gerenciamento de Despesas Pessoais
+# Cost - Gerenciamento de Despesas Pessoais
 
-https://raw.githubusercontent.com/meloalves/cost/main/public/favicon.ico
+<img src="https://raw.githubusercontent.com/meloalves/cost/main/public/favicon.ico
+"></img>
 
 Bem-vindo ao **cost**, um projeto desenvolvido durante o curso de React com o objetivo de oferecer uma aplicação simples e eficiente para o gerenciamento de despesas pessoais. Com o **cost**, você poderá registrar e acompanhar suas despesas de forma organizada, permitindo uma visão clara e prática do seu orçamento.
 
