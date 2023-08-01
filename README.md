@@ -5,14 +5,14 @@
 
 Bem-vindo ao **cost**, um projeto desenvolvido durante o curso de React com o objetivo de oferecer uma aplicação simples e eficiente para o gerenciamento de despesas pessoais. Com o **cost**, você poderá registrar e acompanhar suas despesas de forma organizada, permitindo uma visão clara e prática do seu orçamento.
 
-## Funcionalidades Principais
+## Funcionalidades 
 
 - **Registrar Despesas:** Adicione suas despesas com detalhes como descrição, valor e data, facilitando o controle de seus gastos diários.
 
 - **Visualização de Despesas:** Veja de forma clara todas as despesas registradas e acompanhe o saldo disponível.
 
 
-## Tecnologias Utilizadas
+## Tecnologias 
 
 O projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
