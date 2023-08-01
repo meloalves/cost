@@ -11,10 +11,6 @@ Bem-vindo ao **cost**, um projeto desenvolvido durante o curso de React com o ob
 
 - **Visualização de Despesas:** Veja de forma clara todas as despesas registradas e acompanhe o saldo disponível.
 
-- **Filtros Personalizados:** Utilize filtros por data para visualizar suas despesas em períodos específicos.
-
-- **Interface Intuitiva:** A aplicação possui uma interface amigável e responsiva, garantindo uma experiência agradável em diferentes dispositivos.
-
 
 ## Tecnologias Utilizadas
 
